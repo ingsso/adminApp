@@ -134,7 +134,7 @@ geohash 값을 컬렉션 ID로 사용합니다.
 
 해당 기기의 FCM 토큰을 저장하여 타겟 알림 발송에 사용합니다.
 
-```JSON
+```Bash
 (Collection) 9q9j6j
   └ (Document) admin_device_id_001
       └ (Field) token: "fcm_token_for_device_001..."
